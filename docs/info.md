@@ -8,10 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+A single AND gate
+Explain how your project works.
 
 ## How to test
+A single LED connected to output.
 
 Explain how to use your project
 
